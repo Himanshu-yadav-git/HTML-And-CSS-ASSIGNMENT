@@ -37,31 +37,6 @@ header p {
     margin: 5px 0;
 }
 
-
-/* Navigation */
-
-nav {
-    background-color: #172554;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 5px;
-    padding: 12px;
-}
-
-nav a {
-    color: white;
-    text-decoration: none;
-    padding: 10px 16px;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-}
-
-nav a:hover {
-    background-color: #3b82f6;
-}
-
 img {
     height: 409px;
 }
